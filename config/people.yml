@@ -38,6 +38,11 @@ sara-simon:
   cohort: 1407
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1407/Sara%20Simon.jpg
 
+adam-smith:
+  name: Adam Smith
+  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Adam%20Smith.jpg
+  cohort: 1409
+
 orion-osborn:
   name: Orion Osborn
   cohort: 1410
@@ -52,11 +57,6 @@ alex-robinson:
   name: Alex Robinson
   cohort: 1410
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Alex%20Robinson.jpg
-
-andrew-overby:
-  name: Andrew Overby
-  cohort: 1410
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Andrew%20Overby.jpg
 
 bhargavi-satpathy:
   name: Bhargavi Satpathy
@@ -78,11 +78,6 @@ chris-luhring:
   cohort: 1410
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Chris%20Luhring.jpg
 
-dustin-gault:
-  name: Dustin Gault
-  cohort: 1410
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Dustin%20Gault.jpg
-
 emily-berkeley:
   name: Emily Berkeley
   cohort: 1410
@@ -93,20 +88,15 @@ jeff-wan:
   cohort: 1410
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Jeff%20Wan.jpg
 
-juan-navarro:
-  name: Juan Navarro
-  cohort: 1410
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Juan%20Navarro.jpg
-
-kalah-cheek:
-  name: Kalah Cheek
-  cohort: 1410
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Kalah%20Cheek.jpg
-
 kit-pearson:
   name: Kit Pearson
   cohort: 1410
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Kit%20Pearson.jpg
+
+konr-laron:
+  name: Konr Laron
+  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Konr%20Laron.jpg
+  cohort: 1410
 
 krista-nelson:
   name: Krista Nelson
@@ -143,11 +133,6 @@ scott-crawford:
   cohort: 1410
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Scott%20Crawford.jpg
 
-adam-smith:
-  name: Adam Smith
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Adam%20Smith.jpg
-  cohort: 1409
-
 alex-jensen:
   name: Alex Jensen
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Alex%20Jensen.jpg
@@ -156,11 +141,6 @@ alex-jensen:
 chandra-carney:
   name: Chandra Carney
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Chandra%20Carney.jpg
-  cohort: 1409
-
-christopher-bynum:
-  name: Christopher Bynum
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Christopher%20Bynum.jpg
   cohort: 1409
 
 danny-glunz:
@@ -181,16 +161,6 @@ greg-narajka:
 herbert-joseph:
   name: Herbert Joseph
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Herbert%20Joseph.jpg
-  cohort: 1409
-
-kalah-cheek:
-  name: Kalah Cheek
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Kalah%20Cheek.jpg
-  cohort: 1409
-
-konr-laron:
-  name: Konr Laron
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Konr%20Laron.jpg
   cohort: 1409
 
 sam-kulmann:
@@ -223,11 +193,6 @@ chase-van-hekken:
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1409/Chase%20van%20Hekken.jpg
   cohort: 1409
 
-andrew-overby:
-  name: Andrew Overby
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Andrew%20Overby.jpg
-  cohort: 1412
-
 austin-wood:
   name: Austin Wood
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Austin%20Wood.jpg
@@ -238,10 +203,10 @@ DJ-greenfield:
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/DJ%20Greenfield.jpg
   cohort: 1412
 
-david-maurer:
-  name: David Maurer
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/David%20Maurer.jpg
+dustin-gault:
+  name: Dustin Gault
   cohort: 1412
+  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1410/Dustin%20Gault.jpg
 
 edward-macarthy:
   name: Edward Macarthy
@@ -253,19 +218,9 @@ fred-block:
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Fred%20Block.jpg
   cohort: 1412
 
-jack-yeh:
-  name: Jack Yeh
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Jack%20Yeh.jpg
-  cohort: 1412
-
 jeffrey-gu:
   name: Jeffrey Gu
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Jeffrey%20Gu.jpg
-  cohort: 1412
-
-kyle-hensen:
-  name: Kyle Hensen
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Kyle%20Hensen.jpg
   cohort: 1412
 
 kyra-weber:
@@ -276,11 +231,6 @@ kyra-weber:
 lori-culberson:
   name: Lori Culberson
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Lori%20Culberson.jpg
-  cohort: 1412
-
-manny-navarro:
-  name: Manny Navarro
-  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Manny%20Navarro.jpg
   cohort: 1412
 
 markus-olsen:
@@ -317,3 +267,13 @@ trey-tomlinson:
   name: Trey Tomlinson
   image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Trey%20Tomlinson.jpg
   cohort: 1412
+
+kyle-hensen:
+  name: Kyle Hensen
+  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Kyle%20Hensen.jpg
+  cohort: 1502
+
+jack-yeh:
+  name: Jack Yeh
+  image_url: http://turing-headshots.s3-us-west-1.amazonaws.com/turing-1412/Jack%20Yeh.jpg
+  cohort: 1502
